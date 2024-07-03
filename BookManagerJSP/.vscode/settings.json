@@ -1,0 +1,9 @@
+{
+  "java.project.sourcePaths": [
+    "src"
+  ],
+  "java.project.referencedLibraries": [
+    "WEB-INF\\lib\\ojdbc11.jar"
+  ],
+  "java.project.outputPath": "WEB-INF\\classes"
+}
